@@ -71,4 +71,4 @@ that can be used to creat musical compositions.
 
 ##Soundcloud
 
-[Ptree_of_knowledge](http://soundcloud.com/tree_of_knowledge)
+Take a look on the [Tree_of_knowledge](http://soundcloud.com/tree_of_knowledge) soundcloud page for some sound samples.
